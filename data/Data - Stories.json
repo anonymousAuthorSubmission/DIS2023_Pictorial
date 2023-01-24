@@ -1,0 +1,450 @@
+[
+    {
+        "id": "A1",
+        "title": "A Bica de dentro",
+        "text": "The Bica do Duarte Belo street is famous among natives and foreigners because it is the tourism point where we can find the tram elevator (“Elevador (ou Ascensor) da Bica”).<br><br>From inside the tram, we can see the residents and the merchants, calmly going about their lives, under the curious looks of those who are watching that old little centenary box, going up and down since 1892.<br><br>On the other hand, the tram street at night is a lively and diverse meeting point, where we can hear diverse kinds of music, people laughing and having fun under the Lisbon moon.<br><br>The tram Elevator (“o elevador da Bica”) is a captivating site, as I pass by it every day on my way to work.",
+        "group": "1",
+        "participant": "A",
+        "order": "1"
+    },
+    {
+        "id": "A2",
+        "title": "Look at Life",
+        "text": "Symbol of D. Luis I's abolition of the death penalty in 1867, Dom Luis I Square is an invite to toast to  life. With a robust florestation, it remits to life, to the humanization of the living beings and to the joy of living.",
+        "group": "1",
+        "participant": "A",
+        "order": "2"
+    },
+    {
+        "id": "A3",
+        "title": "From rejection, to Majesty",
+        "text": "Those who pass by the neighbourhoods of Saint Anthony (“Santo António'') or the new avenues (“Avenidas Novas”) could think that the major attractions here are Marquês de Pombal Square (roundabout) or Eduardo VII Park. For me, the real attraction is the Amália Rodrigues Garden, which represents the “queen of Fado”. Queen? Only after having detached her image from the fascist regime, and singing the the great hymn for the carnations’s revolution: “Grândola Vila Morena” from Zeca Alfonso. A place full of history!",
+        "group": "1",
+        "participant": "A",
+        "order": "3"
+    },
+    {
+        "id": "A4",
+        "title": "GentrificAtion",
+        "text": "Lisbon keeps secret beauties <br>in her narrow streets.<br>The walls scream <br>full of mute activism.<br>From outside we see people<br>From the inside we see action<br>Before gentrificAtion, we claim for habitAtion.",
+        "group": "1",
+        "participant": "A",
+        "order": "4"
+    },
+    {
+        "id": "A5",
+        "title": "A Graça de S. Vicente",
+        "text": "The Cerca da Graça garden is located in the old neighbourhood of Graça, which in the 19th century integrated the extinct neighbourhoods of Saint Andrew (“Santo André”) and Santa Marinha.<br><br>But if today (since 2013) it is all considered Saint Vicente’s (“São Vicente”) neighbourhood, we can also say that it is part of Mouraria, whose neighbourhood Santa Maria Maior already integrated from its side, three of four further neighbourhoods. <br><br>Isn't it charming? One that gives origins to the other, which is part of another, who integrated two more, or three or four.<br><br>And so we see the day pass by from one of the highest “Lisbon greatnesses”. And who knows that with the passing of time, the seven hills will turn into one.",
+        "group": "1",
+        "participant": "A",
+        "order": "5"
+    },
+    {
+        "id": "A6",
+        "title": "Ri Beira",
+        "text": "A work of art sown in sky<br><br>in a bright afternoon<br><br>Picture that illustrates a trophy<br><br>at the back of this picture that seems as if it was painted <br><br>Lisbon of charm and grace<br><br>Ri beira<br><br>near the banks of the Tejo river",
+        "group": "1",
+        "participant": "A",
+        "order": "6"
+    },
+    {
+        "id": "B1",
+        "title": "Women in Lisbon: statue of Fernanda do Vale",
+        "text": "Andresa Nascimento was born in Cape Verde, and came to live in Portugal where she changed her name to Fernanda do Vale. Independent woman and influential near the elites. There is a statue of her in D. Luis square, near the rivers’ Market (“Mercado da Ribeira”).",
+        "group": "1",
+        "participant": "B",
+        "order": "1"
+    },
+    {
+        "id": "B2",
+        "title": "A Varina Statue",
+        "text": "The “Varinas”, seen as strong women, accustomed to the hard work in the fields and in fishing, become typical characters of Lisbon. The Varina statue, sculpted by the sculptor José Laranjera Santos, in 1965, is located in North Square (“Praça do Norte”) in Encarnação. ",
+        "group": "1",
+        "participant": "B",
+        "order": "2"
+    },
+    {
+        "id": "B3",
+        "title": "Women of Lisbon",
+        "text": "Lisbon’s women (1994). Sculptures of women, a permanent display in the metro of Campo Pequeno. An homage to women and their occupations, because women always occupied different roles simultaneously, having as a backdrop, different realities according to the era, country, religion, and culture.",
+        "group": "1",
+        "participant": "B",
+        "order": "3"
+    },
+    {
+        "id": "B4",
+        "title": "Batucadeiras women Mural",
+        "text": "The batucadeiras women from Cape Verde play, dance and sing, transmitting traditional music, which is learned through imitation and oral transmission. Originally from Santiago Island, they have been showing their music style throughout the world.",
+        "group": "1",
+        "participant": "B",
+        "order": "4"
+    },
+    {
+        "id": "B5",
+        "title": "D. Catarina de Bragança Statue",
+        "text": "D. Catarina de Bragança, Princess of Portugal and Queen of England, introduced cutlery, the five o’clock tea, orange jelly, among other things, in a country where she had to show a strong personality, keeping into account the fact that she was a migrant/foreigner. There is a statue of her, in the Parque das Nações, in Lisbon.",
+        "group": "1",
+        "participant": "B",
+        "order": "5"
+    },
+    {
+        "id": "C1",
+        "title": "Anjos",
+        "text": "This photo was taken near the metro station of Angels (“Anjos”). I think that they set up the lanterns to celebrate the Chinese New Year.",
+        "group": "1",
+        "participant": "C",
+        "order": "1"
+    },
+    {
+        "id": "C2",
+        "title": "Vasco da Gama",
+        "text": "A very busy place, it has access to trams, the metro and buses.",
+        "group": "1",
+        "participant": "C",
+        "order": "2"
+    },
+    {
+        "id": "C3",
+        "title": "Market Square",
+        "text": "One of the biggest squares in Europe.",
+        "group": "1",
+        "participant": "C",
+        "order": "3"
+    },
+    {
+        "id": "C4",
+        "title": "Vasco da Gama Bridge",
+        "text": "Built in 1998, it connects Montijo with the greater Lisbon.",
+        "group": "1",
+        "participant": "C",
+        "order": "4"
+    },
+    {
+        "id": "C5",
+        "title": "Museu de Arte, Arquitetura e Tecnologia",
+        "text": "Founded in 2016, it combines three areas into one space",
+        "group": "1",
+        "participant": "C",
+        "order": "5"
+    },
+    {
+        "id": "C6",
+        "title": "Jerónimos Monastery",
+        "text": "Built during the 16th century, to celebrate the return of Vasco de Gama. It was declared a World Heritage Site (“Património da Humanidade”) by Unesco in 1983.",
+        "group": "1",
+        "participant": "C",
+        "order": "6"
+    },
+    {
+        "id": "D1",
+        "title": "Life is an art",
+        "text": "When I see a place of art (“casa de arte”), I see the beginning of a life, a liquid art, I see freedom for expressing what is inside me, what runs in my veins.",
+        "group": "1",
+        "participant": "D",
+        "order": "1"
+    },
+    {
+        "id": "D2",
+        "title": "Belém beyond: courage, faith and strength",
+        "text": "A structure that transmits calm, inner peace and higher tranquility. Tourist’s place, but many do not know its true history",
+        "group": "1",
+        "participant": "D",
+        "order": "2"
+    },
+    {
+        "id": "D3",
+        "title": "With a fight everything is possible",
+        "text": "I see sacrifice, sadness, perseverance and most of all, hard work from those who are already gone and did everything at their disposal to maintain this country‘s peace.",
+        "group": "1",
+        "participant": "D",
+        "order": "3"
+    },
+    {
+        "id": "D4",
+        "title": "Continuity and Persistence",
+        "text": "I see a touristic site in which happiness, peace, tranquillity and lots of harmony reigns. A place where much blood was spilled, but today it is turned into a stage for attention and much amusement. ",
+        "group": "1",
+        "participant": "D",
+        "order": "4"
+    },
+    {
+        "id": "D5",
+        "title": "Liberty and Resilience",
+        "text": "Motivation to continue the fight, memorable sculpture and of much respect. Space for much recreation and much tranquility. ",
+        "group": "1",
+        "participant": "D",
+        "order": "5"
+    },
+    {
+        "id": "D6",
+        "title": "Liberty and Life",
+        "text": "Very pleasant place, where there is an agglomeration of  people from all over the world, enjoyment and all that a charming space can offer. ",
+        "group": "1",
+        "participant": "D",
+        "order": "6"
+    },
+    {
+        "id": "E1",
+        "title": "My street",
+        "text": "I have been living here for three years, for this reason this is really my home. The street is full of buildings and there are always cars, for this reason, it is quite busy and noisy but I like it.",
+        "group": "1",
+        "participant": "E",
+        "order": "1"
+    },
+    {
+        "id": "E2",
+        "title": "Faculty of Letters",
+        "text": "When I got into the university it was one of the best moments of my life. Education edificates you.",
+        "group": "1",
+        "participant": "E",
+        "order": "2"
+    },
+    {
+        "id": "E3",
+        "title": "Daily trips",
+        "text": "Everyday I use the metro to move around, it is part of my life.",
+        "group": "1",
+        "participant": "E",
+        "order": "3"
+    },
+    {
+        "id": "E4",
+        "title": "Chiado",
+        "text": "During secondary school’s field trips we used to go to the shops (“armazéns”) a lot.",
+        "group": "1",
+        "participant": "E",
+        "order": "4"
+    },
+    {
+        "id": "E5",
+        "title": "25th April Bridge",
+        "text": "When I was in kindergarten in the summer, we would cross the bridge everyday to go to the beach.",
+        "group": "1",
+        "participant": "E",
+        "order": "5"
+    },
+    {
+        "id": "E6",
+        "title": "Untitled",
+        "text": "...",
+        "group": "1",
+        "participant": "E",
+        "order": "6"
+    },
+    {
+        "id": "F1",
+        "title": "Faculty of Letters",
+        "text": "The Faculty of Letters is a very important space for me. It was there that I spent 3 years of my life that I will never forget. It was 3 years of a lot of learning, discoveries and challenges. It was intense but each effort doubled its value. It was in the faculty of letters that I reached one of my goals - a degree in African studies<br><br>Even today when I pass by the faculty of letters I sketch a smile full of passion and nostalgia",
+        "group": "1",
+        "participant": "F",
+        "order": "1"
+    },
+    {
+        "id": "F2",
+        "title": "Faculty of Letter's Library",
+        "text": "Before attending the faculty of letters, I did not pay any attention to libraries. However, everything changed in the context of the degree in African studies. I spent many hours in this library, studying, laughing, rambling, reading and traveling with my mind. It was in this library that I saw and read the first volume of the general history of Africa and the following volumes, or the first volume of Elikia M'Bokolo’s history of black Africa and its civilizations, and first saw the Creole dictionary of Guinea Bissau. All the books I mentioned are authentic references for me, they have an incalculable value and they made me aware of the other side of the history of the African continent, the history that nobody tells, the history before colonialism and the history of the losers. The faculty of letters’ library is undoubtedly a kind of oracle for me.",
+        "group": "1",
+        "participant": "F",
+        "order": "2"
+    },
+    {
+        "id": "F3",
+        "title": "Luminous Fountain - Alameda",
+        "text": "This is the luminous fountain of Alameda. I pass here every day or almost every day and as you can see, it is an inviting space and only some rays of sunshine are needed for the Alameda to be “occupied by people”, some to sunbathe, others just to leave the house, others to catch some fresh air and walk the dogs. Alameda and its luminous fountain is a space with a lot of potential. I've seen many parties held by the city hall. But what most enchants me in Alameda are the parties and / or moments carried out by creative people. For example I am part of a carnival / percussion band and in January and February our rehearsals are in the Alameda Square, on Sunday afternoon and it is very beautiful to see, people love it, and applaud us, it is very special mainly because no one needs to pay, its people entertaining people at zero cost in public space something that is increasingly rare.",
+        "group": "1",
+        "participant": "F",
+        "order": "3"
+    },
+    {
+        "id": "F4",
+        "title": "S. Domingos Square",
+        "text": "Throughout my stay in Lisbon I have participated in several demonstrations against racism and police violence that ended near  S. Domingos. The S. Domingos Square is a place of resistance and struggle, full of symbolism.",
+        "group": "1",
+        "participant": "F",
+        "order": "4"
+    },
+    {
+        "id": "F5",
+        "title": "Martim Moniz",
+        "text": "Martim Moniz is also a square that I really like for its people, view and history. Unfortunately, Martim Moniz is no longer what it was since they closed the  leisure spaces. However, it remains a great place to hang out.",
+        "group": "1",
+        "participant": "F",
+        "order": "5"
+    },
+    {
+        "id": "G1",
+        "title": "Sta. Cruz Damaia Railway Station",
+        "text": "Paths we take and that make us think it doesn't matter, it is like the journey, full of tramplings, dreams, fantasies, waiting, goodbyes",
+        "group": "1",
+        "participant": "G",
+        "order": "1"
+    },
+    {
+        "id": "G2",
+        "title": "Faculty of Letters of University of Lisbon",
+        "text": "Education is what is left when we forget what we learned in class. In life, you receive a test that teaches you a lesson",
+        "group": "1",
+        "participant": "G",
+        "order": "2"
+    },
+    {
+        "id": "G3",
+        "title": "D. Maria II Theater",
+        "text": "Like in the theater, we need to be ready for anything",
+        "group": "1",
+        "participant": "G",
+        "order": "3"
+    },
+    {
+        "id": "G4",
+        "title": "Luz Stadium",
+        "text": "The place where I had great moments and I never get tired of visiting it, my favourite sport club.",
+        "group": "1",
+        "participant": "G",
+        "order": "4"
+    },
+    {
+        "id": "G5",
+        "title": "Cova da Moura neighbourhood",
+        "text": "The place where I live and the media tend to distort the image of the people that live there.",
+        "group": "1",
+        "participant": "G",
+        "order": "5"
+    },
+    {
+        "id": "G6",
+        "title": "Equestrian Statue of D.José",
+        "text": "Defeats and victories marked the country’s trajectory and its present, so it is said that it is us that decide what we want",
+        "group": "1",
+        "participant": "G",
+        "order": "6"
+    },
+    {
+        "id": "H1",
+        "title": "Terreiro do Paço River Station",
+        "text": "Here are the boats that cross the Tagus River (“Rio Tejo”), between Barreiro and Lisbon. There is a large influx of workers and students who choose to live on the south bank of the river due to its proximity to the capital and the lower cost of living. It is part of my daily routine, as well as that of many Portuguese people.",
+        "group": "1",
+        "participant": "H",
+        "order": "1"
+    },
+    {
+        "id": "H2",
+        "title": "Metro Station in Lisbon",
+        "text": "The subway runs through the city of Lisbon and is one of the most used means of transport, which is explained by its ability to transport large numbers of people, as well as the ease of quickly reaching different points of the city. Even so, at peak times, it is difficult to take everyone onboard and the metro circulates overcrowded.",
+        "group": "1",
+        "participant": "H",
+        "order": "2"
+    },
+    {
+        "id": "H3",
+        "title": "Faculty of Letters of University of Lisbon",
+        "text": "It is one of the faculties of the University of Lisbon, the largest public university in Portugal, and is located, like most of them, in the University City (“Cidade Universitária”). In this faculty you can attend some courses in the Humanities area, such as linguistic, historical and cultural.",
+        "group": "1",
+        "participant": "H",
+        "order": "3"
+    },
+    {
+        "id": "H4",
+        "title": "Kaleidoscope (\"Caleidoscópio\")",
+        "text": "This building belongs to the University of Lisbon, being a study space that is open 24 hours per day. The building is shared with the McDonald’s, which makes the space even more appealing and highly frequented by students.",
+        "group": "1",
+        "participant": "H",
+        "order": "4"
+    },
+    {
+        "id": "H5",
+        "title": "Mario Soares Garden",
+        "text": "Better known as Jardim do Campo Grande for its location, it is the largest garden in the center of Lisbon. It is, for many students, a place of relaxation and serves to relieve the stress of academic life. It is a place of great beauty, besides being very pleasant.",
+        "group": "1",
+        "participant": "H",
+        "order": "5"
+    },
+    {
+        "id": "I1",
+        "title": "Dawn",
+        "text": "Dawn reflected on the Vasco da Gama bridge",
+        "group": "1",
+        "participant": "I",
+        "order": "1"
+    },
+    {
+        "id": "I2",
+        "title": "Jenga, the block",
+        "text": "Photograph of a building in Portela, from a cloudy late afternoon",
+        "group": "1",
+        "participant": "I",
+        "order": "2"
+    },
+    {
+        "id": "I3",
+        "title": "Dusk",
+        "text": "Photograph of the bridge at the end of the day, seen from a building in Portela",
+        "group": "1",
+        "participant": "I",
+        "order": "3"
+    },
+    {
+        "id": "I4",
+        "title": "Wings",
+        "text": "Photograph of the entrance to the Orient station (“Estação do Oriente”), from an unconventional angle",
+        "group": "1",
+        "participant": "I",
+        "order": "4"
+    },
+    {
+        "id": "I5",
+        "title": "The railway",
+        "text": "Photograph of the railways (\"caminhos de ferro\") before the train passes, edited",
+        "group": "1",
+        "participant": "I",
+        "order": "5"
+    },
+    {
+        "id": "J1",
+        "title": "Prof. Doutor Fernando Fonseca E.P.E. Hospital",
+        "text": "It was here that everything started, precisely in 1998, an ambitious, persistent girl was born who wants to change the world for the better, but as we grew up we realize that this task will be very difficult or almost impossible.",
+        "group": "1",
+        "participant": "J",
+        "order": "1"
+    },
+    {
+        "id": "J2",
+        "title": "Faculty of Letters of University of Lisbon",
+        "text": "It is in this centenary faculty that I chose to continue my studies, with that decision came many joys, sorrows, some doubts. The college is a place that aims to foster and develop our skills, as well as our perspective of the world",
+        "group": "1",
+        "participant": "J",
+        "order": "2"
+    },
+    {
+        "id": "J3",
+        "title": "Rossio Fountains in D. Pedro IV Square",
+        "text": "After the victory against France in the European Championship in 2016, the fountains of the Rossio were \"invaded\" by euphoric Portuguese fans, who were incredulous about winning  the championship.",
+        "group": "1",
+        "participant": "J",
+        "order": "3"
+    },
+    {
+        "id": "J4",
+        "title": "25th April Bridge",
+        "text": "Where two perspectives of living are connected",
+        "group": "1",
+        "participant": "J",
+        "order": "4"
+    },
+    {
+        "id": "J5",
+        "title": "Augusta Street's arch",
+        "text": "When we climb to the viewpoint (“miradouro”) of Augusta Street's Arch (\"Arco da Rua Augusta\"), we are faced with a breathtaking view of the city of Lisbon.",
+        "group": "1",
+        "participant": "J",
+        "order": "5"
+    },
+    {
+        "id": "J6",
+        "title": "National Palace of Sintra",
+        "text": "One of the most beautiful palaces in Portugal, located in Sintra, where tranquility reigns.",
+        "group": "1",
+        "participant": "J",
+        "order": "6"
+    }
+]

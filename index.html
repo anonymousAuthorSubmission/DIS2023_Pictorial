@@ -1,0 +1,137 @@
+<head>
+    <!--The following 3 lines are an attempt to prevent caching. Ultimately they need to be removed from the distribution version-->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+    <style>
+        body {
+            margin: 0;
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+    <script src="//unpkg.com/three"></script>
+
+    <script src="//unpkg.com/3d-force-graph"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <!-- drawer.css -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/drawer/3.2.2/css/drawer.min.css">
+    <!-- jquery & iScroll -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/iScroll/5.2.0/iscroll.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/iScroll/5.2.0/iscroll-probe.min.js"></script>
+    <!-- drawer.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/drawer/3.2.2/js/drawer.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+        integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet/less" type="text/css" href="css/drawer.less" />
+    <script src="https://cdn.jsdelivr.net/npm/less@4.1.1"></script>
+
+</head>
+
+<body style="background-color: #E4E4E4;">
+    <iframe src="navbar.html"
+        onload="this.insertAdjacentHTML('afterend', (this.contentDocument.body||this.contentDocument).innerHTML);this.remove()"></iframe>
+
+    <section class="hero is-black">
+        <div class="hero-body">
+            <p class="title">
+                “Before gentrification, we claim habitation”: 
+            </p>
+            <p class="subtitle">
+                Eliciting Values and Assets through Cultural Heritage Storytelling
+                <br>
+                <strong>Suplementary Material for DIS 2023 Pictorial</strong>
+            </p>
+        </div>
+    </section>
+    <div style="display:flex;">
+        <section class="section">
+            <h1 class="title"> <span class="icon">
+                    <i class="fa-solid fa-book-atlas"></i>
+                </span>&nbsp Story Booklet</h1>
+            <h2 class="subtitle">
+                Sequential and geolocalized stories ordered by participant.
+            </h2>
+            <div style="display:flex; flex-wrap: wrap;">
+                <a href="bookletA.html" style="margin: 0 10px 0 0;">
+                    <figure class="image is-128x128" style="height:auto">
+                        <img class="is-rounded" src="images/Booklet_A.jpg">
+                    </figure>
+                </a>
+                <a href="bookletB.html" style="margin: 0 10px 0 0;">
+                    <figure class="image is-128x128" style="height:auto">
+                        <img class="is-rounded" src="images/Booklet_B.jpg">
+                    </figure>
+                </a>
+                <br>
+                <a href="bookletC.html" style="margin: 0 10px 0 0;">
+                    <figure class="image is-128x128" style="height:auto">
+                        <img class="is-rounded" src="images/Booklet_C.jpg">
+                    </figure>
+                </a>
+                <a href="bookletD.html" style="margin: 0 10px 0 0;">
+                    <figure class="image is-128x128" style="height:auto">
+                        <img class="is-rounded" src="images/Booklet_D.jpg">
+                    </figure>
+                </a>
+                <br>
+                <a href="bookletE.html" style="margin: 0 10px 0 0;">
+                    <figure class="image is-128x128" style="height:auto">
+                        <img class="is-rounded" src="images/Booklet_E.jpg">
+                    </figure>
+                </a>
+                <a href="bookletF.html" style="margin: 0 10px 0 0;">
+                    <figure class="image is-128x128" style="height:auto">
+                        <img class="is-rounded" src="images/Booklet_F.jpg">
+                    </figure>
+                </a>
+                <br>
+                <a href="bookletG.html" style="margin: 0 10px 0 0;">
+                    <figure class="image is-128x128" style="height:auto">
+                        <img class="is-rounded" src="images/Booklet_G.jpg">
+                    </figure>
+                </a>
+                <a href="bookletH.html" style="margin: 0 10px 0 0;">
+                    <figure class="image is-128x128" style="height:auto">
+                        <img class="is-rounded" src="images/Booklet_H.jpg">
+                    </figure>
+                </a>
+                <br>
+                <a href="bookletI.html" style="margin: 0 10px 0 0;">
+                    <figure class="image is-128x128" style="height:auto">
+                        <img class="is-rounded" src="images/Booklet_I.jpg">
+                    </figure>
+                </a>
+                <a href="bookletJ.html" style="margin: 0 10px 0 0;">
+                    <figure class="image is-128x128" style="height:auto">
+                        <img class="is-rounded" src="images/Booklet_J.jpg">
+                    </figure>
+                </a>
+                <br>
+            </div>
+        </section>
+        <section class="section">
+            <h1 class="title"><span class="icon">
+                    <i class="fa-solid fa-share-nodes"></i>
+                </span> &nbsp Story Graph</h1>
+            <h2 class="subtitle">
+                Force-driven 3D graph with <strong>stories</strong> and <strong>themes</strong> from content analysis.
+                <p class="content is-small">
+                    <i class="fa-solid fa-triangle-exclamation"></i> Image loading may be delayed due to github server
+                    speed.
+                </p>
+            </h2>
+            <div class=" box" >
+                <a href="graph.html">
+                    <figure class="">
+                        <img class="" src="images/graph.png">
+                    </figure>
+                </a>
+            </div>
+        </section>
+    </div>
+</body>

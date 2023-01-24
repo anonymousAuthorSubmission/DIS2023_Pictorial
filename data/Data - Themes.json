@@ -1,0 +1,56 @@
+[
+  {
+    "id": "History",
+    "title": "History",
+    "text": "This theme includes references to history in both Portugal and the participants' associated country of heritage.",
+    "group": 2
+  },
+  {
+    "id": "Gentrification",
+    "title": "Gentrification",
+    "text": "This theme discusses frustrations and issues surrounding gentrification in Lisbon, such as cost of living, and changes to the visual environment of the city.",
+    "group": 2
+  },
+  {
+    "id": "Gender",
+    "title": "Gender",
+    "text": "This theme refers to the celebration of women's strength and advocacy throughout culture and history.",
+    "group": 2
+  },
+  {
+    "id": "Reflective Places",
+    "title": "Reflective Places",
+    "text": "This theme relates to places in Lisbon that have visually inspired participants and encouraged them to engage in introspective moments.",
+    "group": 2
+  },
+  {
+    "id": "Social Spaces",
+    "title": "Social Spaces",
+    "text": "This theme relates to spaces in Lisbon that allow for public gatherings and celebrative practices.",
+    "group": 2
+  },
+  {
+    "id": "Transport",
+    "title": "Transport",
+    "text": "This theme relates to the experience of travelling around Lisbon, also briefly touching on the economic issues and implications surrounding the use of transport in the city.",
+    "group": 2
+  },
+  {
+    "id": "Education",
+    "title": "Education",
+    "text": "This theme relates to participant's current or past experiences of attending higher education in Lisbon.",
+    "group": 2
+  },
+  {
+    "id": "Life and Memories",
+    "title": "Life and Memories",
+    "text": "This theme relates to the life experiences, memories and nostalgia often associated with particular places in Lisbon.",
+    "group": 2
+  },
+  {
+    "id": "Nature",
+    "title": "Nature",
+    "text": "This theme relates to open and natural spaces and participants' thoughts evoked by these spaces.",
+    "group": 2
+  }
+]

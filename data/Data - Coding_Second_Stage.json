@@ -1,0 +1,418 @@
+[
+  {
+    "source": "History",
+    "target": "A1"
+  },
+  {
+    "source": "History",
+    "target": "A3"
+  },
+  {
+    "source": "History",
+    "target": "A6"
+  },
+  {
+    "source": "History",
+    "target": "B1"
+  },
+  {
+    "source": "History",
+    "target": "B2"
+  },
+  {
+    "source": "History",
+    "target": "B3"
+  },
+  {
+    "source": "History",
+    "target": "B4"
+  },
+  {
+    "source": "History",
+    "target": "B5"
+  },
+  {
+    "source": "History",
+    "target": "C3"
+  },
+  {
+    "source": "History",
+    "target": "C6"
+  },
+  {
+    "source": "History",
+    "target": "D1"
+  },
+  {
+    "source": "History",
+    "target": "D2"
+  },
+  {
+    "source": "History",
+    "target": "D3"
+  },
+  {
+    "source": "History",
+    "target": "D4"
+  },
+  {
+    "source": "History",
+    "target": "D5"
+  },
+  {
+    "source": "History",
+    "target": "F4"
+  },
+  {
+    "source": "History",
+    "target": "G6"
+  },
+  {
+    "source": "History",
+    "target": "I1"
+  },
+  {
+    "source": "History",
+    "target": "J3"
+  },
+  {
+    "source": "History",
+    "target": "J5"
+  },
+  {
+    "source": "History",
+    "target": "J6"
+  },
+  {
+    "source": "Gentrification",
+    "target": "A4"
+  },
+  {
+    "source": "Gender",
+    "target": "A3"
+  },
+  {
+    "source": "Gender",
+    "target": "B1"
+  },
+  {
+    "source": "Gender",
+    "target": "B2"
+  },
+  {
+    "source": "Gender",
+    "target": "B3"
+  },
+  {
+    "source": "Gender",
+    "target": "B4"
+  },
+  {
+    "source": "Gender",
+    "target": "B5"
+  },
+  {
+    "source": "Reflective Places",
+    "target": "A2"
+  },
+  {
+    "source": "Reflective Places",
+    "target": "A5"
+  },
+  {
+    "source": "Reflective Places",
+    "target": "C5"
+  },
+  {
+    "source": "Reflective Places",
+    "target": "D3"
+  },
+  {
+    "source": "Reflective Places",
+    "target": "E5"
+  },
+  {
+    "source": "Reflective Places",
+    "target": "E6"
+  },
+  {
+    "source": "Reflective Places",
+    "target": "F3"
+  },
+  {
+    "source": "Reflective Places",
+    "target": "H1"
+  },
+  {
+    "source": "Reflective Places",
+    "target": "H4"
+  },
+  {
+    "source": "Reflective Places",
+    "target": "H5"
+  },
+  {
+    "source": "Reflective Places",
+    "target": "I1"
+  },
+  {
+    "source": "Reflective Places",
+    "target": "J4"
+  },
+  {
+    "source": "Social Spaces",
+    "target": "A3"
+  },
+  {
+    "source": "Social Spaces",
+    "target": "A5"
+  },
+  {
+    "source": "Social Spaces",
+    "target": "A6"
+  },
+  {
+    "source": "Social Spaces",
+    "target": "C2"
+  },
+  {
+    "source": "Social Spaces",
+    "target": "C5"
+  },
+  {
+    "source": "Social Spaces",
+    "target": "D1"
+  },
+  {
+    "source": "Social Spaces",
+    "target": "D4"
+  },
+  {
+    "source": "Social Spaces",
+    "target": "D6"
+  },
+  {
+    "source": "Social Spaces",
+    "target": "G3"
+  },
+  {
+    "source": "Social Spaces",
+    "target": "G4"
+  },
+  {
+    "source": "Social Spaces",
+    "target": "J3"
+  },
+  {
+    "source": "Social Spaces",
+    "target": "J5"
+  },
+  {
+    "source": "Transport",
+    "target": "A2"
+  },
+  {
+    "source": "Transport",
+    "target": "C1"
+  },
+  {
+    "source": "Transport",
+    "target": "C4"
+  },
+  {
+    "source": "Transport",
+    "target": "E3"
+  },
+  {
+    "source": "Transport",
+    "target": "E5"
+  },
+  {
+    "source": "Transport",
+    "target": "G1"
+  },
+  {
+    "source": "Transport",
+    "target": "H1"
+  },
+  {
+    "source": "Transport",
+    "target": "H2"
+  },
+  {
+    "source": "Transport",
+    "target": "I1"
+  },
+  {
+    "source": "Transport",
+    "target": "I4"
+  },
+  {
+    "source": "Transport",
+    "target": "I5"
+  },
+  {
+    "source": "Education",
+    "target": "F1"
+  },
+  {
+    "source": "Education",
+    "target": "F2"
+  },
+  {
+    "source": "Education",
+    "target": "F5"
+  },
+  {
+    "source": "Education",
+    "target": "G2"
+  },
+  {
+    "source": "Education",
+    "target": "H3"
+  },
+  {
+    "source": "Education",
+    "target": "J1"
+  },
+  {
+    "source": "Education",
+    "target": "J2"
+  },
+  {
+    "source": "Education",
+    "target": "E2"
+  },
+  {
+    "source": "Life and Memories",
+    "target": "C1"
+  },
+  {
+    "source": "Life and Memories",
+    "target": "C2"
+  },
+  {
+    "source": "Life and Memories",
+    "target": "D1"
+  },
+  {
+    "source": "Life and Memories",
+    "target": "D6"
+  },
+  {
+    "source": "Life and Memories",
+    "target": "E1"
+  },
+  {
+    "source": "Life and Memories",
+    "target": "E2"
+  },
+  {
+    "source": "Life and Memories",
+    "target": "E3"
+  },
+  {
+    "source": "Life and Memories",
+    "target": "E4"
+  },
+  {
+    "source": "Life and Memories",
+    "target": "F1"
+  },
+  {
+    "source": "Life and Memories",
+    "target": "F2"
+  },
+  {
+    "source": "Life and Memories",
+    "target": "F5"
+  },
+  {
+    "source": "Life and Memories",
+    "target": "G1"
+  },
+  {
+    "source": "Life and Memories",
+    "target": "G2"
+  },
+  {
+    "source": "Life and Memories",
+    "target": "G4"
+  },
+  {
+    "source": "Life and Memories",
+    "target": "G5"
+  },
+  {
+    "source": "Life and Memories",
+    "target": "H2"
+  },
+  {
+    "source": "Life and Memories",
+    "target": "H3"
+  },
+  {
+    "source": "Life and Memories",
+    "target": "I1"
+  },
+  {
+    "source": "Nature",
+    "target": "A2"
+  },
+  {
+    "source": "Nature",
+    "target": "A3"
+  },
+  {
+    "source": "Nature",
+    "target": "A5"
+  },
+  {
+    "source": "Nature",
+    "target": "A6"
+  },
+  {
+    "source": "Nature",
+    "target": "C5"
+  },
+  {
+    "source": "Nature",
+    "target": "D5"
+  },
+  {
+    "source": "Nature",
+    "target": "E6"
+  },
+  {
+    "source": "Nature",
+    "target": "F3"
+  },
+  {
+    "source": "Nature",
+    "target": "H1"
+  },
+  {
+    "source": "Nature",
+    "target": "H4"
+  },
+  {
+    "source": "Nature",
+    "target": "J1"
+  },
+  {
+    "source": "Nature",
+    "target": "J4"
+  },
+  {
+    "source": "Nature",
+    "target": "J6"
+  },
+  {
+    "source": "Life and Memories",
+    "target": "I3"
+  },
+  {
+    "source": "Life and Memories",
+    "target": "I2"
+  }
+]
